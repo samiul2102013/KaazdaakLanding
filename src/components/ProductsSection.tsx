@@ -79,8 +79,8 @@ export default function ProductsSection() {
               <button type="button" className="btn btn--primary" onClick={watchVideo}>
                 Watch the video
               </button>
-              <a className="btn btn--outline" href="https://www.kaazdaak.com" target="_blank" rel="noopener">
-                Visit kaazdaak.com
+              <a className="btn btn--outline" href="https://www.kaajdaak.oceanedgetech.com/" target="_blank" rel="noopener">
+                Visit the site
               </a>
             </div>
 

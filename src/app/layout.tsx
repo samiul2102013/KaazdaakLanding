@@ -15,7 +15,7 @@ const hindSiliguri = Hind_Siliguri({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.kaazdaak.com"),
+  metadataBase: new URL("https://www.kaajdaak.oceanedgetech.com"),
   title: "KaazDaak – আপনার কাজ, আমাদের দায়িত্ব",
   description:
     "KaazDaak is a local work marketplace for Bangladesh — post a task, hire someone nearby. Trusted service providers, KYC verified, secure payments.",
