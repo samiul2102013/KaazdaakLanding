@@ -35,6 +35,8 @@ export default function Footer() {
             <li><a href="#products">Product</a></li>
             <li><a href="#building-now">Current focus</a></li>
             <li><a href="#contact">Contact</a></li>
+            <li><a href="/privacy-policy">Privacy Policy</a></li>
+            <li><a href="/return-refund-policy">Return &amp; Refund Policy</a></li>
           </ul>
         </nav>
 
